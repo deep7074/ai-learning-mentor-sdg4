@@ -1,0 +1,1 @@
+Sample note: TCP three-way handshake uses SYN, SYN-ACK, and ACK messages to establish a TCP connection.
